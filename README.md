@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data science, web and mobile app development
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on any tasks available in this field
-- 📫 How to reach me krgknm@gmail.com
+- 📫 How to reach me raphkasenge@gmail.com
 
 <!---
 RAPH-KASENGE/RAPH-KASENGE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
